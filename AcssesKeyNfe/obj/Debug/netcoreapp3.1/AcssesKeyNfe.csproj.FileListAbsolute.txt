@@ -1,0 +1,13 @@
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\bin\Debug\netcoreapp3.1\AcssesKeyNfe.exe
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\bin\Debug\netcoreapp3.1\AcssesKeyNfe.deps.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\bin\Debug\netcoreapp3.1\AcssesKeyNfe.runtimeconfig.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\bin\Debug\netcoreapp3.1\AcssesKeyNfe.runtimeconfig.dev.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\bin\Debug\netcoreapp3.1\AcssesKeyNfe.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\bin\Debug\netcoreapp3.1\AcssesKeyNfe.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.csprojAssemblyReference.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.AssemblyInfo.cs
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\AcssesKeyNfe\obj\Debug\netcoreapp3.1\AcssesKeyNfe.genruntimeconfig.cache
